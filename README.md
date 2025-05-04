@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project implements graph using an adjacency list. It includes implementations the graph algorithms:
+This project implements graph using an adjacency list. It includes implementations of the following graph algorithms:
 
 - Breadth-First Search (BFS)
 - Depth-First Search (DFS)
